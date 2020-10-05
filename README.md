@@ -1,1 +1,3 @@
-<img src="http://anioncode.pl/wp-content/uploads/2020/08/Github-1024x768.png"/> 
+
+<img src="https://github-readme-stats.vercel.app/api?username=lukieoo&show_icons=false&count_private=true" />
+ 
