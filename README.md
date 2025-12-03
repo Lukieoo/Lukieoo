@@ -1,4 +1,1 @@
- 
-<img src="https://github-readme-stats.vercel.app/api?username=lukieoo&show_icons=false&count_private=true" /> 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukieoo&hide=javascript,html,java" /> 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Lukieoo?cardType=github&theme=github&showIcons=false&preferLogin=false)](https://github.com/Lukieoo)
